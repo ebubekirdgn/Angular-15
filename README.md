@@ -4,3 +4,5 @@
 3. ``` $ sudo apt install npm ```
 4. ``` $ sudo npm install -g n ```
 5. ``` $ sudo n stable ```
+6. ``` $ sudo npm inst @angular/cli@latest ```
+
