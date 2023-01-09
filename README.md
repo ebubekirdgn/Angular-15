@@ -1,2 +1,2 @@
 # Ubuntu Installation 
-``` sudo apt update ```
+1. ``` sudo apt update ```
