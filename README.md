@@ -26,7 +26,6 @@
 ### Modules (Modüller)
 > Module yapılanması öğelerin grauplandırılmasını sağlamaktadır.Modüller, uygulamanın çeşitli parçalarını(components, services,vs.)bir araya getirerek bir bütün olarak kullanılabilir kılmaktadır.
 
-
 ### Component (Bileşen)
 > Component'ler uygulamanın bütün işlevsel operasyonlarının temel merkezini ifade eden ve veri modeliyle etkileşim kurarak kullanıcılara uygulamanın görsel kısmını sunan yapılardır. 
 > Veri modeliyle de bağlantı kurabilmek için Data Binding yöntemini kullanmaktadır. 
