@@ -28,7 +28,7 @@
 
 
 ### Component (Bileşen)
-> Component'ler uygulamanın görüntüleme katmanını ifadec eden ve veri modeliyle etkileşim kurarak kullanıcılara uygulamanın görsel kısmını sunan yapılardır.
+> Component'ler uygulamanın bütün işlevsel operasyonlarının temel merkezini ifade eden ve veri modeliyle etkileşim kurarak kullanıcılara uygulamanın görsel kısmını sunan yapılardır.
 
 
 
