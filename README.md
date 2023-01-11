@@ -45,6 +45,10 @@
 >  Angular'da genellikle dış servislerle(API-endpoint) iletişim kurmak, karmaşık iş operasyonlarını veya business logic'i yürütmek , yahut componentler arasında iletişim sağlayabilmek için kullanılan fiili yapılanmalardır.
 
 
+### Templates (Şablonlar)
+>  Component'lerin HTML kısmına denir.İçerisinde HTML kodları barındırabileceği gibi özel Angular elemanları,directives'ler,pipe'lar vs. barındırabilir ve bunları işlevlerine göre çalıştırabilirler.
+
+
 
 
 
