@@ -48,6 +48,8 @@
 ### Templates (Şablonlar)
 >  Component'lerin HTML kısmına denir.İçerisinde HTML kodları barındırabileceği gibi özel Angular elemanları,directives'ler,pipe'lar vs. barındırabilir ve bunları işlevlerine göre çalıştırabilirler.
 
+### Guard (Koruma)
+>  Angular uygulamasında route erişimlerinin izin kontrolleri Guard yapılanması üzerinden gerçekleşmektedir.
 
 
 
@@ -71,5 +73,4 @@
 
 
 
-
-Taken from the tutorial on @gncyyldz's youtube channel https://www.youtube.com/@GencayYildiz
+@gncyyldz'ın youtube kanalındaki (https://www.youtube.com/@GencayYildiz) Angular 15 eğitimindeki anlatılanları içermektedir.
