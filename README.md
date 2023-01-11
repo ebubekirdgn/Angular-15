@@ -13,6 +13,16 @@
 ## Angular Yapıtaşları
 
 * Components
+* Module
+* Service
+* DI (Dependency Injection)
+* Data Binding
+* Decorators
+* Templates
+* Metadatas
+* Directives
+* Pipes
+* Guard
 
 
 
