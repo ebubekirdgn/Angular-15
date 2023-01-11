@@ -32,7 +32,8 @@
 > Veri modeliyle de bağlantı kurabilmek için Data Binding yöntemini kullanmaktadır. 
 
 ### Data Binding (Veri Bağlama)
-![]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://miro.medium.com/max/640/1*yr4Qi35A-FUDf0_LPURWxA.gif))
+![Alt Text](https://github.com/ebubekirdgn/Angular-15/blob/main/images/databinding.gif)
+
 
 
 
