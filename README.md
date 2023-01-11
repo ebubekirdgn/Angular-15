@@ -35,6 +35,9 @@
 
 > Data Binding sayesinde veri modeli ile template'ler arası veri alışverişinin dinamik olarak sağlanmasını sağlamaktadır.
 
+### Dependency Injection (Bağımlılık Enjeksiyonu)
+>  Uygulamada mevcut olan öğeler arasındaki bağımlılıkları yönetebilmek için Dependecy Injection (DI) patterni kullanılmaktadır.
+
 ### Directives (Direktifler)
 >  HTML nesnelerinin davranışlarını ve görünümlerini yönetebilmemizi sağlayan özel etiketlerdir.
 
@@ -51,7 +54,9 @@
 ### Guard (Koruma)
 >  Angular uygulamasında route erişimlerinin izin kontrolleri Guard yapılanması üzerinden gerçekleşmektedir.
 >  Sayfalar arası geçiş süreçlerimde ilgili kullanıcıların erişimine izin verilip verilmeyeceğine dair karar veren yapılanmadır.
-
+  
+### Pipes
+>  Pipe'lar; verilerin görüntülenme süreçlerinde işlenmesine yönelik işlevsellik sağlayan yapılardır.
 
 
 
