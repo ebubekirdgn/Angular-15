@@ -34,7 +34,7 @@
 ### Data Binding (Veri Bağlama)
 ![medium.com/codex/data-binding-in-angular-ecb206deb7d0](https://github.com/ebubekirdgn/Angular-15/blob/main/images/databinding.gif)
 
-
+> Data Binding sayesinde veri modeli ile template'ler arası veri alışverişinin dinamik olarak sağlanmasını sağlamaktadır.
 
 
 
