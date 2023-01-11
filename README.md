@@ -50,6 +50,7 @@
 
 ### Guard (Koruma)
 >  Angular uygulamasında route erişimlerinin izin kontrolleri Guard yapılanması üzerinden gerçekleşmektedir.
+>  Sayfalar arası geçiş süreçlerimde ilgili kullanıcıların erişimine izin verilip verilmeyeceğine dair karar veren yapılanmadır.
 
 
 
