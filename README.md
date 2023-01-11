@@ -23,7 +23,7 @@
 * Pipes
 * Guard
 
-### Modules
+### Modules (Modüller)
 > Module yapılanması öğelerin grauplandırılmasını sağlamaktadır.Modüller, uygulamanın çeşitli parçalarını(components, services,vs.)bir araya getirerek bir bütün olarak kullanılabilir kılmaktadır.
 
 
@@ -36,6 +36,8 @@
 
 > Data Binding sayesinde veri modeli ile template'ler arası veri alışverişinin dinamik olarak sağlanmasını sağlamaktadır.
 
+### Directives (Direktifler)
+>  HTML nesnelerinin davranışlarını ve görünümlerini yönetebilmemizi sağlayan özel etiketlerdir.
 
 
 
