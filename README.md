@@ -42,6 +42,9 @@
 ### Decorators (Dekoratörler)
 >  TypeScript dilinin bir özelliğidir ve Angular tarafından kullanılmaktadır.
 
+### Services (Servisler)
+>  Angular'da genellikle dış servislerle(API-endpoint) iletişim kurmak, karmaşık iş operasyonlarını veya business logic'i yürütmek , yahut componentler arasında iletişim sağlayabilmek için kullanılan fiili yapılanmalardır.
+
 
 
 
