@@ -5,6 +5,7 @@
  sudo npm install -g n
  sudo n stable
  sudo n latest ``` <br>
+ 
 3. ``` $ sudo npm install npm@latest -g ```
 4. ``` $ sudo npm install -g n ```
 5. ``` $ sudo n stable ```
