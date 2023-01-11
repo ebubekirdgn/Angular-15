@@ -9,3 +9,5 @@
  > $ sudo n stable <br>
  > $ sudo n latest  <br> 
 <hr>
+
+Taken from the tutorial on @gncyyldz's youtube channel https://www.youtube.com/@GencayYildiz
