@@ -8,7 +8,6 @@
  > $ sudo npm install -g n <br>
  > $ sudo n stable <br>
  > $ sudo n latest  <br> 
-<hr>
 
 ## Angular Yapıtaşları
 
