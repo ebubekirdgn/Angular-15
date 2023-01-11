@@ -1,4 +1,4 @@
-# Ubuntu Kurulum
+## 1. Ubuntu Kurulum
 1. ``` $ sudo apt update ```
 2. ``` $ sudo apt install nodejs ```
 3. ``` $ sudo npm install npm -g ```
@@ -9,7 +9,7 @@
  > $ sudo n stable <br>
  > $ sudo n latest  <br> 
 
-## Angular Yapıtaşları
+## 2. Angular Yapıtaşları
 
 * Components
 * Module
