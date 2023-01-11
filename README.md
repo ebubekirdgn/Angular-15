@@ -6,3 +6,4 @@
 5. ``` $ sudo n stable ```
 6. ``` $ sudo npm inst @angular/cli@latest ```
 
+<hr>
