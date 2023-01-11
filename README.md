@@ -24,11 +24,8 @@
 * Guard
 
 ### Module
-```
+> Module yapılanması öğelerin grauplandırılmasını sağlamaktadır.Modüller, uygulamanın çeşitli parçalarını(components, services,vs.)bir araya getirerek <br>bir bütün olarak kullanılabilir kılmaktadır.
 
- Module yapılanması öğelerin grauplandırılmasını sağlamaktadır.Modüller, uygulamanın çeşitli parçalarını(components, services,vs.)bir araya getirerek bir bütün olarak kullanılabilir kılmaktadır.
-
-```
 
 
 
