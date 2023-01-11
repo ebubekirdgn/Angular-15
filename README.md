@@ -1,7 +1,7 @@
 # Ubuntu Installation 
 1. ``` $ sudo apt update ```
 2. ``` $ sudo apt install nodejs ```
- > Node Js For Update 
+ > Node Js For Update  <br>
  > sudo npm install -g n
  > sudo n stable
  > sudo n latest ``` 
