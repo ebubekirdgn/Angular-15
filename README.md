@@ -11,8 +11,8 @@
 
 ## 2. Angular Yapıtaşları
 
-* Components
 * Module
+* Components
 * Service
 * DI (Dependency Injection)
 * Data Binding
