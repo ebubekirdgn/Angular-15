@@ -39,6 +39,10 @@
 ### Directives (Direktifler)
 >  HTML nesnelerinin davranışlarını ve görünümlerini yönetebilmemizi sağlayan özel etiketlerdir.
 
+### Decorators (Dekoratörler)
+>  TypeScript dilinin bir özelliğidir ve Angular tarafından kullanılmaktadır.
+
+
 
 
 
