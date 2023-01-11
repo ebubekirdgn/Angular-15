@@ -4,7 +4,7 @@
 ``` Node Js For Update 
  sudo npm install -g n
  sudo n stable
- sudo n latest ``` <br>
+ sudo n latest ``` 
  
 3. ``` $ sudo npm install npm@latest -g ```
 4. ``` $ sudo npm install -g n ```
