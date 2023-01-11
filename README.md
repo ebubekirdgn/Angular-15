@@ -23,6 +23,11 @@
 * Pipes
 * Guard
 
+```
+Module <br>
+ Module yapılanması öğelerin grauplandırılmasını sağlamaktadır.Modüller, uygulamanın çeşitli parçalarını(components, services,vs.)bir araya getirerek bir bütün olarak kullanılabilir kılmaktadır.
+
+```
 
 
 
