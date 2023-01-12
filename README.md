@@ -75,8 +75,4 @@
 
 
 
-
-
-
-
 @gncyyldz'ın youtube kanalındaki (https://www.youtube.com/@GencayYildiz) Angular 15 eğitimindeki anlatılanları içermektedir.
