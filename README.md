@@ -62,6 +62,8 @@
 
 ### Angular Komutları
 
+> Component Oluşturma 
+* ng generate component [component name] veya ng g c [component name]
 
 
 
