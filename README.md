@@ -58,6 +58,11 @@
 ### Pipes
 >  Pipe'lar; verilerin görüntülenme süreçlerinde işlenmesine yönelik işlevsellik sağlayan yapılardır.
 
+<hr>
+
+### Angular Komutları
+
+
 
 
 
