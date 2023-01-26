@@ -1,7 +1,7 @@
 ## 1. Ubuntu Kurulum
 1. ``` $ sudo apt update ```
 2. ``` $ sudo apt install nodejs ```
-3. ``` $ sudo npm install npm -g ```
+3. ``` $ sudo apt-get install npm ```
 4. ``` $ sudo npm install @angular/cli ```
 
  ###  Node Js'i Son Sürüme Yükseltmek İçin <br>
