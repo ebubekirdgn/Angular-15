@@ -9,6 +9,16 @@
  > $ sudo n stable <br>
  > $ sudo n latest  <br> 
 
+Kurulum sırasında böyle bir hata alırsanız ;
+
+![alt text](https://github.com/ebubekirdgn/Angular-15/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG?raw=true)
+
+Aşağıdaki komutları çalıştırırsanız hatanız gidecektir.
+```
+sudo chown -R root:$(whoami) /usr/local/lib/node_modules/
+
+sudo chmod -R 775 /usr/local/lib/node_modules/
+```
 ## 2. Angular Yapıtaşları
 
 * Module
