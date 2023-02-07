@@ -78,5 +78,4 @@ sudo chmod -R 775 /usr/local/lib/node_modules/
 
 
 
-
 @gncyyldz'ın youtube kanalındaki (https://www.youtube.com/@GencayYildiz) Angular 15 eğitimindeki anlatılanları içermektedir.
